@@ -1,12 +1,38 @@
-# React + Vite
+# AI Enhancer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AI Enhancer is a web-based application that allows users to enhance images using artificial intelligence algorithms. This project is built with modern web technologies, ensuring fast performance and a smooth user experience.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Image Upload**: Users can upload an image for enhancement.
+- **AI-Powered Image Enhancement**: The application uses machine learning models to enhance image quality.
+- **Image Preview**: Users can preview the enhanced image before saving.
+- **Responsive UI**: Designed with responsiveness in mind to work seamlessly across devices.
+- **Dark Mode & Light Mode**: Toggle between dark and light modes for comfortable viewing.
+  
+## Technologies Used
 
-## Expanding the ESLint configuration
+- **Frontend**: 
+  - React.js
+  - Tailwind CSS
+  - Vite.js
+- **Backend**: 
+  - (If applicable, add backend technologies used)
+- **APIs**: 
+  - AI Image Enhancement API
+- **Others**:
+  - GitHub Actions (for CI/CD)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Installation
+
+### Prerequisites
+
+- Node.js (v14.x or higher)
+- npm (v6.x or higher)
+
+### Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Noor1805/ai-enhancer.git
+
